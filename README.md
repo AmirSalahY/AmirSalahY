@@ -1,9 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<h2 align="left">Hi 👋! My name is Amir Salah and I'm a Mobile Lead</h2>
 ###
 
 <div align="left">
